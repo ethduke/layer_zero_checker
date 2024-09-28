@@ -1,0 +1,29 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+venv/
+env/
+*.venv
+*.virtualenv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Project-specific files
+eligible_claims.json
+
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+

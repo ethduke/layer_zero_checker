@@ -1,6 +1,6 @@
 ## Usage
 
-1. Add your Ethereum addresses to `evm.txt` (one per line).
+1. Add your Ethereum addresses to `evm.txt` (one per line) (PUBLIC KEYS ONLY)
 2. Add your proxy list to `proxies.txt` (one per line, format: `http://ip:port` or `socks5://ip:port`).
 3. Run the script:
    ```
